@@ -1,4 +1,4 @@
-# blockchaindao
-Web3 Code and Blockchain Mechanics
+# Blockchain and DAO
+Web3 Code and relations to DAO
 
-Web 3
+With blockchain technology, Decentralised Autonomous Organisations will use blockchain governance system to democratise decision-making, management, and entity ownership
